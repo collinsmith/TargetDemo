@@ -28,7 +28,7 @@
 </performanceConfiguration><dataGroupsConfigurations xmlVersion="5" productVersion="0">
  <StubDataGroupsConfiguration className="com.parasoft.stub.deployment.StubDataGroupsConfiguration" version="1.1">
  </StubDataGroupsConfiguration>
-</dataGroupsConfigurations></stub><stub version="1" id="0" name="Case 49867" enabled="false" description="" location="Case 49867.pva" path="/Case%2049867" asset="" assetResource=""><jms providerURL="" initialContext="" useReplyTo="false" type="Publish-and-Subscribe" messageSelector="" queueConnectionFactory="" destinationQueue="" replyToQueue="" topicConnectionFactory="" publishTopic="" subscribeTopic="" username="" password="" workerCount="1">
+</dataGroupsConfigurations></stub><stub version="1" id="0" name="Case 49867" enabled="true" description="" location="Case 49867.pva" path="/Case%2049867" asset="" assetResource=""><jms providerURL="" initialContext="" useReplyTo="false" type="Publish-and-Subscribe" messageSelector="" queueConnectionFactory="" destinationQueue="" replyToQueue="" topicConnectionFactory="" publishTopic="" subscribeTopic="" username="" password="" workerCount="1">
 <jmsProperties>
 </jmsProperties>
 <jmsSharedSettings xmlVersion="5" productVersion="0">
